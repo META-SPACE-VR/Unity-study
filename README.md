@@ -46,3 +46,37 @@
 <a href="https://www.youtube.com/playlist?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud"><b>How to make a VR game - Unity XR Toolkit 2022 - Valem Tutorials</b>  
 <a href="https://www.youtube.com/playlist?list=PLC2Tit6NyVidtjrK6nKMkSBGRUmfz8IMK"><b>유니티 3D 기초 (Unity 3D Basic) - 고박사의 유니티 노트</b>  
 <a href="https://www.youtube.com/playlist?list=PLC2Tit6NyVidfJ9XCIAy0YBwxSoBGTyiP"><b>유니티 3D 게임 (Unity 3D Game) - 고박사의 유니티 노트</b>
+
+---
+
+## 📁 Repository 폴더 구조
+
+```
+{이름}/{스터디 날짜}/{파일}
+```
+
+- 💡 예시: `BJY/240531/01.바닥,오브젝트.md`
+
+<br/>
+
+## commit 컨벤션
+
+```
+{태그}: {스터디 날짜} {커밋 메세지}
+```
+
+- 💡 예시: `➕ADD: 240111 추가`
+
+### 이모지 및 태그
+
+- 이모지는 선택에 따라 활용한다.
+
+| 이모지 | 태그     | 설명                                                     |
+| :----- | :------- | :------------------------------------------------------- |
+| ➕     | ADD      | 문제 풀이 파일이나 부수적인 코드 '추가'                  |
+| ✅     | MOD      | 코드 및 내부 파일 '수정'                                 |
+| ♻️     | REFACTOR | 코드 '리팩토링'                                          |
+| ✏️     | CORRECT  | 문법 '오류해결', 타입 '변경', 이름 변경 등의 작은 '수정' |
+| 📝     | DOCS     | README와 같은 문서 '수정'                                |
+| 🔀     | MERGE    | 다른 브랜치와의 '충돌해결' 후 Merge                      |
+| 🚚     | RENAME   | 파일 이름 '변경'                                         |
