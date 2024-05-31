@@ -42,5 +42,7 @@
 ## 참고
 
 <a href="https://youtube.com/playlist?list=PLUZ5gNInsv_Nzex8Cvxce_1zjUf0cNWY9&si=sZ1X_vWjuMfMavEz"><b>유니티 강좌 [3D FPS 서바이벌 생존] - 케이디</b>  
-<a href="https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2"><b>📚 유니티 기초 강좌 - 골드메탈</b>
-<a href="https://www.youtube.com/playlist?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud"><b>How to make a VR game - Unity XR Toolkit 2022</b>
+<a href="https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2"><b>📚 유니티 기초 강좌 - 골드메탈</b>  
+<a href="https://www.youtube.com/playlist?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud"><b>How to make a VR game - Unity XR Toolkit 2022 - Valem Tutorials</b>  
+<a href="https://www.youtube.com/playlist?list=PLC2Tit6NyVidtjrK6nKMkSBGRUmfz8IMK"><b>유니티 3D 기초 (Unity 3D Basic) - 고박사의 유니티 노트</b>  
+<a href="https://www.youtube.com/playlist?list=PLC2Tit6NyVidfJ9XCIAy0YBwxSoBGTyiP"><b>유니티 3D 게임 (Unity 3D Game) - 고박사의 유니티 노트</b>
